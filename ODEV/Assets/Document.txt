@@ -1,0 +1,8 @@
+Resources: 
+
+https://assetstore.unity.com/packages/3d/characters/free-sports-kit-239377
+
+https://assetstore.unity.com/packages/2d/textures-materials/floors/ground-materials-fd-free-140364
+
+
+(Kodların neler yaptığının açıklamasını kod içlerine not olarak yazdım hocam)
