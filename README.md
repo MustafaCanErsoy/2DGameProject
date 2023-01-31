@@ -1,6 +1,3 @@
-# ButGameProject
-Game Programing Project
-
 
 ## 2 Kale Top
 
